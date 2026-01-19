@@ -1,0 +1,17 @@
+country,continent,year,population
+China,Asia,2000,1262645000
+China,Asia,2020,1402112000
+India,Asia,2000,1056575549
+India,Asia,2020,1380004385
+United States,North America,2000,282162411
+United States,North America,2020,331449281
+Brazil,South America,2000,174790340
+Brazil,South America,2020,212559409
+Nigeria,Africa,2000,122283853
+Nigeria,Africa,2020,206139587
+Germany,Europe,2000,82211508
+Germany,Europe,2020,83240525
+Japan,Asia,2000,126843000
+Japan,Asia,2020,125836021
+Australia,Oceania,2000,19153000
+Australia,Oceania,2020,25687041
